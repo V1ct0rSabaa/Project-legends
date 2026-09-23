@@ -1,7 +1,7 @@
 # Project-Legends
 
 ## Descrição inicial
-O Project Legends é um metroidvania 2D com elementos de _survival horror_ e _folk horror_, ambientado na cultura em folclore da região norte do Brasil, o enredo se passa na Belém do Pará contemporânea, onde a protagonista "inserir nome" é uma jovem adulta acadêmica de biologia que descobre uma cobra de espécie desconhecida, o contato com espécime é a chave para a protagonista conhecer a história e vivência de seus ascendentes indígenas assim como explorar as recentes aparições perigosas e sombrias relatadas em Belém.
+O Project Legends é um metroidvania 2D com elementos de _survival horror_ e _folk horror_, ambientado na cultura em folclore da região norte do Brasil, o enredo se passa em Belém do Pará contemporânea, onde a protagonista "inserir nome" é uma jovem adulta acadêmica de biologia que descobre uma cobra de espécie desconhecida. O contato com a nova espécie é a chave para a protagonista conhecer a história de seus ascendentes indígenas assim como explorar as recentes aparições perigosas e sombrias relatadas em Belém.
 
 ## equipe
 - Nome / Cargo / Linkedin e GitHub
