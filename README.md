@@ -11,8 +11,47 @@ O Project Legends é um metroidvania 2D com elementos de _survival horror_ e _fo
 - Lucas / Desenvolvedor Unity / linkedin.com/in/lucasauss / @LucasAugustoSS
 - Arthur / Roteirista 
 
-## Mecânicas e características de jogabilidade
-x
+## Mecânicas e características de jogabilidade implementadas até agora
+- Compatibilidade com controle
+- Pulo simples
+- Pulo duplo
+- Ataque básico
+- Esconder
+- Dash
+- Dash + corrida
+- Sistema de Z-Target nos inimigos
+- Mudar alvo do Z-Target
+
+## Botões no teclado
+- Space - pular
+- Duplo Space - pulo duplo
+- Backspace - atacar
+- E - esconder
+- Shift - dash
+- Shift + Shift (segurar) - dash + corrida
+- Ctrl - Z-Target
+- Q - mudar mira para outro inimigo
+
+## Botões no controle (DualShock/DualSense)
+- X - pulo simples
+- Duplo X - pulo duplo
+- □ - atacar
+- △ - esconder
+- ○ - Dash
+- ○ + ○ (segurar) - dash + corrida
+- R3 (apertar) - Z-Target
+- Analógico direito - mudar mira para outro inimigo
+
+## Botões no controle (Gamepad)
+- A - pulo simples
+- Duplo A - pulo duplo
+- X - atacar
+- Y - esconder
+- B - Dash
+- B + B (segurar) - dash + corrida
+- Botão do analógico direito (apertar) - Z-Target
+- Analógico direito - mudar mira para outro inimigo
+
 ## Calendário do projeto
 x
 ## Tecnologias
