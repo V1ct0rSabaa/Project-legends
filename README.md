@@ -5,11 +5,12 @@ O Project Legends é um metroidvania 2D com elementos de _survival horror_ e _fo
 
 ## equipe
 - Nome / Cargo / Linkedin e GitHub
-- Caio Machado / Desenvolvedor Unity / linkedin.com/in/caiogilletmachado / @CaioMC12
-- Victor Sabaa / Level designer e Músico / linkedin.com/in/victor-sabaa-94057822a / @V1ct0rSabaa
-- Raissa Oliveira / Artista e Game Designer / linkedin.com/in/raissa-oliveira-11653226a / @RaissaOliv
+- Caio Machado / Desenvolvedor Unity e Product Manager / linkedin.com/in/caiogilletmachado / @CaioMC12
 - Lucas / Desenvolvedor Unity / linkedin.com/in/lucasauss / @LucasAugustoSS
-- Arthur / Roteirista 
+- Raissa Oliveira / Artista e Game Designer / linkedin.com/in/raissa-oliveira-11653226a / @RaissaOliv
+- Victor Sabaa / Level Designer e Músico / linkedin.com/in/victor-sabaa-94057822a / @V1ct0rSabaa
+- Arthur / Roteirista / linkedin.com/in/arthur-jose-avis-318b1a2a4 / @Arthuraviz
+- Verônica / Roteirista / 
 
 ## Mecânicas e características de jogabilidade implementadas até agora
 - Compatibilidade com controle
