@@ -22,6 +22,7 @@ O Project Legends é um metroidvania 2D com elementos de _survival horror_ e _fo
 - Dash + corrida
 - Sistema de Z-Target nos inimigos
 - Mudar alvo do Z-Target
+- Pause menu (dois botões adicionados, "Continuar" para "despausar" o jogo e outro "Sair" para sair do jogo e voltar para a área de trabalho)
 
 ## Botões no teclado
 - Space - pular
