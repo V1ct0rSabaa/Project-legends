@@ -32,6 +32,7 @@ O Project Legends é um metroidvania 2D com elementos de _survival horror_ e _fo
 - Shift + Shift (segurar) - dash + corrida
 - Ctrl - Z-Target
 - Q - mudar mira para outro inimigo
+- Esc - pause
 
 ## Botões no controle (DualShock/DualSense)
 - X - pulo simples
@@ -42,6 +43,7 @@ O Project Legends é um metroidvania 2D com elementos de _survival horror_ e _fo
 - ○ + ○ (segurar) - dash + corrida
 - R3 (apertar) - Z-Target
 - Analógico direito - mudar mira para outro inimigo
+- Options - pause
 
 ## Botões no controle (Gamepad)
 - A - pulo simples
@@ -52,6 +54,7 @@ O Project Legends é um metroidvania 2D com elementos de _survival horror_ e _fo
 - B + B (segurar) - dash + corrida
 - Botão do analógico direito (apertar) - Z-Target
 - Analógico direito - mudar mira para outro inimigo
+- Menu - pause
 
 ## Calendário do projeto
 x
